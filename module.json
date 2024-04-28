@@ -11,5 +11,4 @@
 	"esmodules" : ["scripts/main.js"],
 	"url" : "https://github.com/Vahn84/foundryvtt-toggle-notes",
 	"manifest" : "https://github.com/Vahn84/foundryvtt-toggle-notes/raw/master/module.json",
-	"download" : "https://github.com/Vahn84/foundryvtt-toggle-notes/archive/11.2.zip"
 }
